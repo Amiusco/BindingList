@@ -1,0 +1,11 @@
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\bin\Debug\BindingList.exe.config
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\bin\Debug\BindingList.exe
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\bin\Debug\BindingList.pdb
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\bin\Debug\BindingList.xml
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\obj\Debug\BindingList.vbprojResolveAssemblyReference.cache
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\obj\Debug\BindingList.Form1.resources
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\obj\Debug\BindingList.Resources.resources
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\obj\Debug\BindingList.vbproj.GenerateResource.Cache
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\obj\Debug\BindingList.exe
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\obj\Debug\BindingList.xml
+C:\Users\FcoWin10\Documents\GitHub\Practicas-libro\BindingList\BindingList\BindingList\obj\Debug\BindingList.pdb
